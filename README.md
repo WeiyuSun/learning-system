@@ -5,4 +5,4 @@
 ###### As student, Email: student1@test.com, Password: 123123
 ###### As instructor, Email: instructor1@test.com, Password: 123123
 ## Website
-###### www.weiyuproj.space:3000/
+###### http://149.28.126.51:3001/
